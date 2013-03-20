@@ -1,0 +1,10 @@
+Edits by CD 27/08:
+
+1) Moved article to standard The MagPi template.
+2) Moved objects to layers within the template.
+3) Added github link in the Finally section of the article.
+4) Corrected various grammatical errors to aid readability.
+5) Changed text to use styles: Body Heading and Body Text (ie: replacing Arial with Freesans Regular), then inreased Body Text style spacing to 13pt as it looked a little cramped.
+6) Changed heading text box dimensions to match template.
+7) Split "And we did it!" into its own section.
+

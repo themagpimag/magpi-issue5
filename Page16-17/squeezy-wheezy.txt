@@ -1,0 +1,70 @@
+SQUEEZY OR WHEEZY?
+Debian Distro's Examined.
+
+SQUEEZE (Debian 6)
+------------------
+
+SPEED
+
+Things are very slow - particularly if you are attempting to run larger apps such as Scribus.
+
+STABILITY
+
+Squeeze would randomly freeze or completely lock up requiring a reboot
+
+IMAGING AND PARTITIONING
+
+If you have imaged Squeeze onto a larger SD Card, you will most likely want to expand the size of the primary partition, to make use of the available space.  This is not a very easy or fun task.  The MagPi covered this procedure in Issue 2, but it required use of a Linux based PC or a Linux LiveCD, and a tricky set of instructions for the resize using the 'GParted' application.  It's an annoyance that slows down the installation process.
+
+RANGE OF PACKAGES
+
+During the making of Issue 3, The MagPi tested and provided a long list of apps and games that work on the Pi under Squeeze.
+
+INTERNET
+
+Squeeze comes with a version of Midori which is rather limited.  It struggles with many websites.  I would recommend installing the chromium-browser which seems to work with more websites, however the downside is slowness - the browser is rather cumbersome compared with Midori.  You can get by with Google's Gmail, IRC chat and Dropbox as well as many other websites.
+
+MULTIMEDIA
+
+This is probably the one area where Squeeze currently has the edge.  You can play mp3 and wma music as well as most video formats, providing you choose the right apps.  OMXPlayer is good all-rounder, but can sometimes be problematic with WMA files.  'avifile-player' however seems to handle WMA music better, but not good for video.  Unfortunately development of 'avifile-player' seems to have been discontinued and it is not available for Wheezy.
+
+GEANY & PYTHON
+
+The programming text editor is great, but unfortunately you do have to make a small configuration change to get programs to execute from within the IDE (Integrated Development Environment).  Python programs run reasonably well.
+
+WHEEZY (Debian 7)
+-----------------
+
+SPEED
+
+Everything runs MUCH quicker under Wheezy.
+
+STABILITY
+
+With Raspbian Wheezy the random freezing seemed to have been fixed.
+
+IMAGING AND PARTITIONING
+
+After imaging Wheezy onto the SD Card, the primary partition can be resized easily using an in-built tool that autoloads the first time you run the Operating System.  You are confronted with a menu which allows you to easily configure a number of settings.  There are many options, which might look daunting and confusing to beginners who might not necessarily know what settings they need.  The menu has other useful features allowing you to have LXDE loaded on boot, avoiding the login password, etc.  Personally I prefer to do this manually myself as described on pages 3 & 4 of MagPi Issue 3 - Although those instructions were written for Squeeze, they work just as well on Wheezy.
+
+RANGE OF PACKAGES
+
+The MagPi have not yet tested all of the available Wheezy packages, but the list is certainly a lot shorter than the number of packages for Squeeze.  It may be possible to extend availability by adding new package repositories to the sources.list file.  Wheezy has it's own repository, and hopefully the range of apps will improve over time.
+
+INTERNET
+
+The version of Midori that is bundled with the Wheezy distro seems to be a huge improvement over the Squeeze version.  Greater website compatibility means that you no longer need chromium-browser (It's good because chromium-browser isn't available on Wheezy anyway).  I haven't spent too much time testing the browser, but it seems to work well and quick.  There is a glitch when downloading from dropbox.com, you are presented with an error message, but you can work around this by hitting the back button after each file download - A minor annoyance, unless you are going to be downloading large numbers of files this way.
+
+MULTIMEDIA
+
+Wheezy scores badly on this one.  The main problem seems to relate to audio buffer underrun.  When playing music or video through the omxplayer, it will generally fall over after a minute or two.  There are other apps which can handle wma and mp3 without issue, but I have yet to find a decent video player that runs on Wheezy.  The problem didn't exist on Squeeze, and I suspect it has crept in during the recompiling of Wheezy packages.  The omxplayer is the backbone of XMBC, so hopefully this will be addressed in future releases without requiring recompiling.
+
+GEANY & PYTHON
+
+Geany is a very useful programming text editor.  Geany is no longer included by default, but can be installed using:
+sudo apt-get install geany
+
+You get a newer version than the one that comes bundled with Squeeze.  Wheezy seems to favour using IDLE for editing Python code.  As with Squeeze, Python programs run well.
+
+
+Article by Jaseman

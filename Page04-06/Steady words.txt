@@ -1,0 +1,21 @@
+Steady Hands
+By Mike Cook
+
+You don't have to get complicate to get a deal of fun from an interfacing project. Electrically this is just about as simple as you can get, however it has a very good fun to technology ratio.
+
+Steady hands is a very old game, with a Raspberry Pi we can give it a new twist. The idea is that you have to guide a wire loop along a bendy wire without making the two touch. You can make this as complex or as easy as you like by having more bends in the wire or having the loop smaller. You can make it from a metal coat hanger or a length of tinned copper wire and a block of wood. Drill holes in the wood just smaller than the diameter of the wire so you can simply push the wire in. Solder a length of normal wire to one end and cover it with a small piece of insulation tape. Next arrange two short lengths of wire to act as end stops, these will detect when the loop reaches each end. Again drill holes and push them in and solder lengths of wire to them. Bend them so the loop will rest against them without shorting out to the bendy wire. Extend the tape on the wire if you need to. Finally make the loop and solder a length of wire to it. You might want to add a covering of insulation tape or better self amalgamating tape over the end you hold.
+
+Now, you need to take these three wires to the Raspberry Pi's P1 GPIO connector. There are lots of ways of making this connection and has been covered widely elsewhere, so I will leave it up to you how to connect it. I used a short 8 way header ( two rows of 4), soldered the wires to the end and plugged it in at the left hand end of the plug.
+So, basically we have three signal wires and a ground. Using GPIO 0 & 1 means that a pull up resistor is already connected on the Pi, just leaving GPIO 4 to have either an external pull up attached or activating the internal pull up resistor. I opted for the latter option.
+
+The software was my first venture in writing in the Python language. It is quite straightforward, first of all the three lines must be set up as inputs. They boot up as inputs anyway but it is always good practice to initialise the lines you want to use. I used the GPIO numbers and not the physical pin numbers in the code as I strongly believe that using physical pin numbers is actually a very stupid thing to do, and an even more stupid thing to teach children. It's like the ITA ( Initial Teaching Alphabet ) mistake all over again.
+
+The game is in three phases.
+1) Wait until the loop is placed on the start rest.
+2) Wait until the loop is removed from the start rest.
+3) Time the interval from lifting it off the start rest until it reaches the end rest. While it is in this phase monitoring the bendy wire for touches.
+
+This is then repeated forever, so a control C is needed to stop the program.
+Now this is just the bare bones of what is possible. I always think a good way to learn anything is to extend and modify from a base. This is your base. One extension would be to add a sound when ever the bendy wire is touched. The August issue of the MagPi showed you how to incorporate sound effects into a Python program, so take those bits and graft them into this program. You could also keep track of the high scorer, or even have a table of high scores along with the names. You can make that permanent by writing it out to a file and reading the file when the program first starts up. You can add penalty points into the time, say 3 seconds per point to give a single figure. On a more practical level, see if you can abort a timed run when the loop is placed back on the start loop.
+
+So there is plenty of scope for adding your own refinements. Have fun.

@@ -1,0 +1,102 @@
+Hi
+ 
+just wanted to say great mag. i read it page to page. i am age 45 and think you mag is good for anyone.
+i went out and purchased a robot to follow the skutter series. i was a bit disapointed not to see it in issue 4 i hope it will be in the next one.
+please keep up the good work i look forward to the next issue.
+ 
+regards.
+ 
+Andy.
+--------------
+Hello,
+
+I think your magazine is very well done; and it certainly reflects the enthusiasm that many of us have for the Pi.
+
+I have one concern -- Your early articles seemed to have a definite tilt toward Windows computers (as contrasted with the OS on Macs).  While you may have had very good reasons for this, I hope that, whenever you may take us back to a desktop, you will maintain a good balance between those two systems.
+
+Thanks again and all best wishes for your continued success.
+
+Gene
+
+----------------
+
+Great fan !  Content is brilliant . but......
+
+I (and many others, I suspect) only have access to a monochrome laser printer.
+
+So printing out your very colourful magazine, so I can type in the
+code and see if I can get the invaluable tips to work, is nor viable
+because:-
+
+1)   often one colour print on top of a coloured background is
+incorrectly interpreted by the printer
+
+2)  massive waste of Toner
+
+3)  cut and paste does not work on pdf files.
+
+So the Mag is massively lessened in its usefulness to anyone like me.
+
+suggestion :-
+
+an editable source of the magazine offered as a downloadable file or
+
+a monochrome version of just text offered with no solid blocks of black.
+
+Hope that all makes sense !
+
+:  )))
+
+Tim
+
+------------------
+
+Congratulations on the MagPi magazine, it was the first two issues that persuaded me to order a RasPi.  The world of RasPi is certainly becoming exciting with over 250,000 in the wild and the breadth of articles in MagPi is encouraging to everyone from seasoned hardware hackers to children who have never coded anything before to get in and play.  The only cloud on this horizon is the burgeoning collection of operating systems available.  Most are Linux in one flavour or another, but all will be slightly different in packaging.  This gives MagPi a problem known to many programmers as "dependency hell", where software that is quite happy on one distro will not run on another.  Can you add a simple line to the top of each article stating which platform (Model A/B when A comes online) and distro it needs and any libraries that need to be added (GTK etc), together with version number?  This will potentially save much heartache, particularly to novices who may be put off by the experience.
+
+Keep up the good work!
+
+Yours enthusiastically,
+
+John Gillham
+------------------
+
+Hi,
+
+I have just attempted to start reading the Magpi on my mobile phone, an HTC One S (I wanted to read it in bed, so reading it on a laptop was not an option)
+
+Although what I saw seemed very well produced - both visually and in terms of the content, it was an extremely frustrating experience, and one that I am unlikely to repeat.
+
+Although my phone has a decent size of screen, and supports both flash and pdf documents, neither was really usable on the phone. The navigation buttons on the flash version were too small and unresponsive, while the pdf version jumped around, especially when viewing the end of one page and the beginning of another. It was also difficult to zoom in and get the text the right width to view on screen - it was easy to get the text to be too wide for the screen, necessitating side ways scrolling on each line.
+
+Had there been an html version available, I could have just double tapped the text, and it would have zoomed in and reflowed the text to fit on the screen (I use the Dolphin web browser, but I an sure other browsers support this too).
+
+Please, please make you wonderful magazine available in an html format, so it can be easily read by ask those millions of mobile phone users. If it means making it a little less pretty, so be it. Pretty is of no use if I can't read it!
+
+Regards,
+
+Adam
+-----------------
+To the MagPi Team,
+
+Great effort guys!
+
+The hardware and programming content takes me right back to my youth when Home Computers were just becoming 'common-place' and I was keen on electronics.
+
+My eldest has been looking for something to occupy him and the articles and content I'm judging will be exactly what he wants since after a couple of attempts at school and TAFE, he's been rather disappointed with what the education system in Oz has been insisting is "computing".
+
+The format of the mag is bright, colourful, and looks great on a screen, whether PC or tablet and I like that, however I also prefer to have a hard copy reference when programming and it's the printing aspect which bugs me a little.
+
+I've printed off the first two issues and I swear I've just about emptied the toner.... ok, so I didn't really use all the toner but it really throws a lot of toner/ink onto a piece paper :)
+
+In some instances, the resulting print is almost counter-productive to it's intent.
+For example, the Python scripts which look cool on the 'scrap-paper' on a screen translate to a light grey on mid grey when printed on a laser printer and because the rest of the supporting text is near black, the eyes tend to be drawn to the darker print around it.
+
+
+So, great content - keep this up! -, fantastic effort with reproducing a real magazine look on the screen but if you get the time, maybe consider what translates to print a lot better in terms of cost and readability, e.g. is it possible to produce the mag in such a way that it's easy to offer an 'economy-mode' version for hard-copy where all background filler of the full-colour version is turned off and the majority of print is black on a white background?
+
+(This doesn't mean kill all colour for a printer-economy version, though. I think it's necessary in sections such as In Control and Scratch because the nature of subjects such as those almost demands it.)
+
+Cheers,
+
+SuperObsessiveCompulsiveMan
+---------------------

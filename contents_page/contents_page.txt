@@ -1,0 +1,25 @@
+The contents page and the responsible persons.
+(A - author, L - layout)
+
+1 - Cover - A&L: Alan Holroyd  (Mike's game in action)
+2 - Intro page : A&L: ?
+3 - Contents page - A&L: ?
+4-5 - In Control ??
+8-10 - Steady wire game - A: Mike Cook, L: Lix
+11 - What's on Guide - A/L: ??
+12-15 - thermometer article - A: Duncan Rowland, L?
+16-18 - ??
+19 - Letter of the month - A&L:??
+20-21 - Squeeze vs Wheezy (one page, probably) - A&L
+22-23 - ??
+24-27 - C cave - A&L: Will
+28-29 - Scratch patch - A&L: Mark
+30-31 - Python pit - A&L: Jaseman
+32 - Feedback - A&L: ??
+
+Comments
+
+Do not know if In Control will be written this month.
+
+Other people to help with the layout:
+Lix, ... ?
