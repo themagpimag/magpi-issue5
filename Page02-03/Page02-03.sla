@@ -36,7 +36,7 @@
         <LAYERS NUMMER="2" LEVEL="1" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="2" NAME="Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="1" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="0" PDLanguage="0" markOffset="-9.56381512875776e+305" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="28.3465" BLeft="53.8583" BRight="28.3465" BBottom="28.3465" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" docInfoMarks="1" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Nimbus Sans L Bold Condensed"/>
             <Fonts Name="Nimbus Sans L Regular Condensed"/>
             <Fonts Name="URW Chancery L Medium Italic"/>
@@ -97,14 +97,14 @@
             <ITEXT CH="   STEADY HANDS"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Are your hands stready enough to beat the Pi? by Mike Cook"/>
+            <ITEXT CH="Are your hands steady enough to beat the Pi? by Mike Cook"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" CH="07"/>
             <ITEXT FONTSIZE="12" CH="   ENVIRONMENTAL MONITORING"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Track temperature fluctuations. by Duncan Rowland."/>
+            <ITEXT CH="Track temperature fluctuations, by Duncan Rowland"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="10"/>
@@ -118,18 +118,18 @@
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="12"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="  "/>
-            <ITEXT CH="XBMC: Raspbmc and OpenELEC"/>
+            <ITEXT CH="XBMC: RASPBMC AND OPENELEC"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Get to grips with your media centre setup. by Colin Deady"/>
+            <ITEXT CH="Get to grips with your media centre setup, by Colin Deady"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="16"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="   SQUEEZE VS WHEEZY"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="   SQUEEZE OR WHEEZY"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="Improvements and changes."/>
-            <ITEXT CH=" by Jaseman"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="Improvements and changes"/>
+            <ITEXT CH=", by Jaseman"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="18"/>
@@ -137,7 +137,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" CH="COMMAND LINE CLINIC"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Learn how to backup important data. by Bobby (bredman) Redmond"/>
+            <ITEXT CH="Learn how to backup important data, by Bobby (bredman) Redmond"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FCOLOR="Raspberry Red" FSHADE="100" CH="20"/>
@@ -145,23 +145,22 @@
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
             <ITEXT FONTSIZE="12" CH="Functions, pointer and text file encryption"/>
-            <ITEXT CH=". by W. H. Bell &amp; D. Shepley"/>
+            <ITEXT CH=", by W. H. Bell &amp; D. Shepley"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="24"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="  "/>
-            <ITEXT FONT="FreeSans Bold" CH=" THE SCRATCH PATC"/>
-            <ITEXT CH="H"/>
+            <ITEXT FONT="FreeSans Bold" CH=" THE SCRATCH PATCH"/>
             <para PARENT="Body Text"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Program your own Simon says game. by Antiloquax"/>
+            <ITEXT CH="Program your own Simon says game, by Antiloquax"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="26"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="   48HR RASPITHON"/>
             <para PARENT="Body Heading Clean"/>
             <para PARENT="4pt padding"/>
-            <ITEXT CH="Ben, Luke, Ryan and Edward recount their python challenge."/>
+            <ITEXT CH="Ben, Luke, Ryan and Edward recount their python challenge"/>
             <para PARENT="Body Text"/>
             <para PARENT="Body Text"/>
             <ITEXT FONTSIZE="12" FCOLOR="Raspberry Red" FSHADE="100" CH="27"/>
@@ -174,7 +173,8 @@
             <para PARENT="Body Text"/>
             <ITEXT FCOLOR="Raspberry Red" CH="32"/>
             <ITEXT CH=" "/>
-            <ITEXT FCOLOR="GreyDark" CH="  FEEDBACK &amp; DISCLAIMER"/>
+            <ITEXT FCOLOR="GreyDark" CH="  "/>
+            <ITEXT FCOLOR="Black" CH="FEEDBACK &amp; DISCLAIMER"/>
             <trail PARENT="Body Heading Clean"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -192,7 +192,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="284" YPOS="48.3478" WIDTH="221" HEIGHT="96.6522" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="0.104838709677419" LOCALSCY="0.104838709677419" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Regular Condensed" ISIZE="12" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="TheMagPiText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="TheMagPi.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 221 0 221 0 221 0 221 0 221 96.6522 221 96.6522 221 96.6522 221 96.6522 0 96.6522 0 96.6522 0 96.6522 0 96.6522 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 221 0 221 0 221 0 221 0 221 96.6522 221 96.6522 221 96.6522 221 96.6522 0 96.6522 0 96.6522 0 96.6522 0 96.6522 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1000000000000" gYpos="0" gWidth="1000000000000" gHeight="0" ALIGN="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="284" YPOS="48.3478" WIDTH="221" HEIGHT="96.6522" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="0.155963302752294" LOCALSCY="0.155963302752294" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Sans L Regular Condensed" ISIZE="12" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="TheMagPiText" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="TheMagPiLogoTM_Small.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 221 0 221 0 221 0 221 0 221 96.6522 221 96.6522 221 96.6522 221 96.6522 0 96.6522 0 96.6522 0 96.6522 0 96.6522 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 221 0 221 0 221 0 221 0 221 96.6522 221 96.6522 221 96.6522 221 96.6522 0 96.6522 0 96.6522 0 96.6522 0 96.6522 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1000000000000" gYpos="0" gWidth="1000000000000" gHeight="0" ALIGN="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -203,10 +203,11 @@
             <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="This month we have a collection of hardware projects for you, as well as our usual selection of programming articles and general operating tips.  "/>
             <para ALIGN="0"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="We are proud to present an article by none other than Mike Cook, who designed several projects for THE MICRO USER magazine.  This magazine had a great influence on many of those who were fortunate to have access to a BBC microcomputer.  Without the efforts of Mike and fellow authors, the young members of the Raspberry Pi foundation may never have thought of building the Raspberry PI."/>
+            <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="We are proud to present an article by none other than Mike Cook, who designed several projects for THE MICRO USER magazine.  This magazine had a great influence on many of those who were fortunate to have access to a BBC microcomputer.  Without the efforts of Mike and fellow authors, the young members of the Raspberry Pi foundation may never have thought of building the Raspberry Pi."/>
             <para ALIGN="0"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="We are still looking for volunteers to help with layout as well as authors of new and exciting projects."/>
+            <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="We are still looking for volunteers to help with layout as well as authors of new and exciting projects. Contact editor@themagpi.com."/>
+            <ITEXT CH=" "/>
             <para ALIGN="0"/>
             <para ALIGN="0"/>
             <ITEXT FONT="URW Chancery L Medium Italic" FONTSIZE="20" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Ash Stone"/>
@@ -301,7 +302,7 @@
             <para PARENT="Body Heading Clean"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="695.8740234375" YPOS="19.5" WIDTH="599.125" HEIGHT="490.894989013672" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.611976506639428" LOCALSCY="0.611976506639428" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="pi-and-panel.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 599.125 0 599.125 0 599.125 0 599.125 0 599.125 490.895 599.125 490.895 599.125 490.895 599.125 490.895 0 490.895 0 490.895 0 490.895 0 490.895 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 599.125 0 599.125 0 599.125 0 599.125 0 599.125 490.895 599.125 490.895 599.125 490.895 599.125 490.895 0 490.895 0 490.895 0 490.895 0 490.895 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="695.8740234375" YPOS="10.748703956604" WIDTH="608.3759765625" HEIGHT="499.646301269531" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.62142592090143" LOCALSCY="0.62142592090143" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="pi-and-panel.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 608.376 0 608.376 0 608.376 0 608.376 0 608.376 499.646 608.376 499.646 608.376 499.646 608.376 499.646 0 499.646 0 499.646 0 499.646 0 499.646 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 608.376 0 608.376 0 608.376 0 608.376 0 608.376 499.646 608.376 499.646 608.376 499.646 608.376 499.646 0 499.646 0 499.646 0 499.646 0 499.646 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <ImageEffect Code="3" Param="27"/>
             <PageItemAttributes/>
@@ -311,7 +312,7 @@
             <ImageEffect Code="3" Param="22"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="100.174224853516" YPOS="446.497406005859" WIDTH="592.267700195312" HEIGHT="419.187530517578" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.615662890015917" LOCALSCY="0.615662890015917" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF0789.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 592.268 0 592.268 0 592.268 0 592.268 0 592.268 419.188 592.268 419.188 592.268 419.188 592.268 419.188 0 419.188 0 419.188 0 419.188 0 419.188 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 592.268 0 592.268 0 592.268 0 592.268 0 592.268 419.188 592.268 419.188 592.268 419.188 592.268 419.188 0 419.188 0 419.188 0 419.188 0 419.188 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="90" YPOS="446.497406005859" WIDTH="602.44189453125" HEIGHT="432.999969482422" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="14.4" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.62623897560421" LOCALSCY="0.62623897560421" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF0789.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 602.442 0 602.442 0 602.442 0 602.442 0 602.442 433 602.442 433 602.442 433 602.442 433 0 433 0 433 0 433 0 433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 602.442 0 602.442 0 602.442 0 602.442 0 602.442 433 602.442 433 602.442 433 602.442 433 0 433 0 433 0 433 0 433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
